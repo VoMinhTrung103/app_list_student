@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_list_student</string>
+    <string name="avatar">Student avatar</string>
+    <string name="ho_ten">Họ tên</string>
+    <string name="mssv">MSSV: 123456</string>
+    <string name="detail_image">Student Avatar</string>
+</resources>
